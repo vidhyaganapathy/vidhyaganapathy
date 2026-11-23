@@ -1,8 +1,5 @@
 ![Vidhya: Growth & Performance Marketing Strategist](./banner.png)
 
-# Vidhya
-
-**Growth & Performance Marketing Strategist**
 
 I run paid ads, influencer marketing and whitelisting for B2B tech and consumer brands, in-house and client-side: from budget plan to reporting. I build Claude agents into the workflow so analysis and reporting take minutes, not hours.
 
