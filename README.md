@@ -67,14 +67,14 @@ These repos are the systems I actually use: **playbooks, templates, SOPs and tes
 
 ## 📌 Playbooks
 
-| Repo | What's inside |
-|---|---|
-| [`whitelisting-playbook`](https://github.com/vidhyaganapathy/whitelisting-playbook) | Run paid ads through creator handles on Meta, end to end · `rights-checklist` `brief` `setup-sop` `test-matrix` |
-| [`meta-ads-playbook`](https://github.com/vidhyaganapathy/meta-ads-playbook) | Lead gen and app campaigns: account structure, creative testing, read-only Claude reporting agent · `structure` `creative-tests` `cpl-diagnosis` `agent` |
-| [`linkedin-ads-playbook`](https://github.com/vidhyaganapathy/linkedin-ads-playbook) | Every B2B format: document, single image, single video, thought leader and sponsored content · `doc-ads` `single-image` `video` `thought-leader` `targeting` |
-| [`google-ads-playbook`](https://github.com/vidhyaganapathy/google-ads-playbook) | Search, Performance Max and Demand Gen: campaign structuring, asset groups and conversion goals · `search` `performance-max` `demand-gen` `conversions` |
-| [`influencer-playbook`](https://github.com/vidhyaganapathy/influencer-playbook) | Creator sourcing, vetting and briefs built for paid use · `sourcing` `vetting` `brief` `outreach` |
-| [`growth-performance-playbook`](https://github.com/vidhyaganapathy/growth-performance-playbook) | Budget planning, test design and lead-quality reporting across channels · `budget-plan` `test-design` `lead-ladder` `reporting` |
+| Playbook | What's inside | Status |
+|---|---|---|
+| [`whitelisting-playbook`](https://github.com/vidhyaganapathy/whitelisting-playbook) | Run paid ads through creator handles on Meta, end to end · rights checklist, brief, setup SOP, test matrix | ✅ Live |
+| `meta-ads-playbook` | Lead gen and app campaigns: account structure, creative testing, read-only Claude reporting agent | 🔜 Publishing soon |
+| `linkedin-ads-playbook` | Every B2B format: document, single image, single video, thought leader and sponsored content | 🔜 Publishing soon |
+| `google-ads-playbook` | Search, Performance Max and Demand Gen: campaign structuring, asset groups and conversion goals | 🔜 Publishing soon |
+| `influencer-playbook` | Creator sourcing, vetting and briefs built for paid use | 🔜 Publishing soon |
+| `growth-performance-playbook` | Budget planning, test design and lead-quality reporting across channels | 🔜 Publishing soon |
 
 ---
 
