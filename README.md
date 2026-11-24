@@ -35,9 +35,9 @@ These repos are the systems I actually use: **playbooks, templates, SOPs and tes
 
 | Channel | Note | Status |
 |---|---|---|
-| LinkedIn | **Document ads:** gated B2B lead magnet, lead form setup and targeting by role and company size | ✅ Shipped |
+| LinkedIn | **Document ads:** gated B2B lead magnet, lead form setup and targeting by role and company size · **9 leads at $166 CPL (AUD)** | ✅ Shipped |
 | LinkedIn | **Thought leader ads:** promoting a founder's posts to build trust with decision-makers before the ask | ✅ Shipped |
-| LinkedIn | **Sponsored content:** single image and single video ads, matched to funnel stage and offer | ✅ Shipped |
+| LinkedIn | **Sponsored content:** single image and single video ads, matched to funnel stage and offer · **single image: 1 lead at $178 that became a paying client** ([field note](https://github.com/vidhyaganapathy/linkedin-ads-playbook/blob/main/04-results-doc-vs-single-image.md)) | ✅ Shipped |
 | Meta | **Lead gen and app campaigns:** B2B and consumer, in-house and client-side, with structured creative testing | ✅ Shipped |
 | Google | **Search campaign structuring:** intent-based campaigns and ad groups, negatives and conversion goals | ✅ Shipped |
 | Google | **Performance Max:** asset groups, audience signals and conversion goals so automation optimises for the right leads | ✅ Shipped |
